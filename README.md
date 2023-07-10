@@ -8,12 +8,11 @@ The Events Management System aims to streamline event planning, organization, an
 This project uses Oracle SQL syntax and utilizes the Oracle Application Express (APEX) platform. APEX provides a web-based interface for database development and deployment, making it an ideal choice for running Oracle SQL queries, developing interactive reports, and building data-driven applications.
 
 ## Table of Contents
-- [Project Title](#project-title-events-management-system)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Database Tables](#database-tables)
-  - [SQL Skills Demonstrated](#sql-skills-demonstrated)
-  - [Installation](#installation)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Database Tables](#database-tables)
+- [SQL Skills Demonstrated](#sql-skills-demonstrated)
+- [Installation](#installation)
 
 ## Database Tables
 The Events database comprises the following tables:
