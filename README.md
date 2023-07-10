@@ -46,4 +46,4 @@ This project demonstrates proficiency in the following SQL skills:
 
 ## Installation
 
-Please run the eventSchema.sql file as a script on an Oracle DBMS to create the event management database. 
+Please run the eventDatabaseSchema.sql.text file as a script on an Oracle DBMS to create the event management database. 
