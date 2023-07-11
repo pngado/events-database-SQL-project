@@ -10,38 +10,19 @@ This project uses Oracle SQL syntax and the Oracle Application Express (APEX) pl
 ## Table of Contents
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
-- [Database Tables](#database-tables)
 - [SQL Skills Demonstrated](#sql-skills-demonstrated)
 - [Installation](#installation)
 
-## Database Tables
-The Events database comprises the following tables:
-
-- Events
-- Venues
-- EventVenues
-- Clients
-- Promoters
-- Sponsors
-- Event Sponsors
-- Tickets
-- HireCompany
-- EventEquipments
-- EventServices
-- ServiceCompany
-- Equipments
-
-These tables store information about various entities involved in the events management process, including event details, venue information, client and promoter data, sponsorship agreements, ticketing information, service providers, and equipment suppliers.
 
 ## SQL Skills Demonstrated
 This project demonstrates proficiency in the following SQL skills:
 
-- Table creation and management
-- Data insertion, retrieval, and modification
-- Complex queries using joins and subqueries
-- Aggregation functions for analyzing event data
+- Correlated subquery
 - SQL views for simplifying data access
 - Stored procedures and functions for automation
+- Pattern matching using LIKE and Wildcards
+- Complex joins
+- Aggregation functions for analyzing event data
 
 ## Installation
 
